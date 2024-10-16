@@ -6,9 +6,30 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: microscopy approach; cell population imaging
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: two-photon microscopy technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 80911471167
+  numberOfFiles: 162
+  numberOfSubjects: 162
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_7227
+    name: Drosophila melanogaster - Fruit fly
+    schemaKey: SpeciesType
+  variableMeasured:
+  - TwoPhotonSeries
+  - OpticalChannel
+  - ImagingPlane
 citation: Gou, Tong (2024) Adaptation to visual sparsity enhances responses to isolated
   stimuli (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001205/draft
 contributor:
