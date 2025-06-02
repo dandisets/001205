@@ -32,7 +32,7 @@ assetsSummary:
   - OpticalChannel
   - ImagingPlane
 citation: Gou, Tong (2025) Adaptation to visual sparsity enhances responses to isolated
-  stimuli (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001205/draft
+  stimuli (Version 0.250602.0251) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001205/0.250602.0251
 contributor:
 - affiliation: []
   email: tong.gou@yale.edu
@@ -58,12 +58,13 @@ description: 'Associated Reference Publication: Sensory systems adapt their resp
   and OFF pathways, recruiting a larger fraction of the circuit and potentially enhancing
   the salience of isolated stimuli. Overall, our results reveal visual response properties
   that increase the fraction of the circuit responding to sparse, isolated stimuli.'
-id: DANDI:001205/draft
+doi: 10.48324/dandi.001205/0.250602.0251
+id: DANDI:001205/0.250602.0251
 identifier: DANDI:001205
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001205/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001205/0.250602.0251/assets.yaml
 name: Adaptation to visual sparsity enhances responses to isolated stimuli
 publishedBy:
   endDate: '2025-06-02T02:51:02.847775+00:00'
@@ -80,5 +81,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-url: https://dandiarchive.org/dandiset/001205/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001205/0.250602.0251
+version: 0.250602.0251
